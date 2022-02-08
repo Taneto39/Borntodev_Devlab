@@ -1,3 +1,4 @@
-matrix = []
-matrix[0][0] = 1
-print(matrix)
+# a = [int(i) for i in input().split(" ")]
+# a.sort()
+# print(a)
+a = input().split(" ")
