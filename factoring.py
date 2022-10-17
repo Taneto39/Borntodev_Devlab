@@ -30,7 +30,7 @@ y = 2
 while x != 1:
     for i in range(2, int(x)+1):
         if x % i == 0:
-            print(i)
+            print(i, 'factor')
             x /= i
             break
     y += 1
